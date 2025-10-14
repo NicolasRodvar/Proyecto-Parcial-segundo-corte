@@ -4,7 +4,7 @@
 
 ## Realizado por 
 David Sebastian Prieto Osma  
-Nicolas Rodriguez   
+Nicolas Rodriguez Vargas 
  
 
 ## Curso
